@@ -27,21 +27,23 @@ Steve Wozniak y Steve Jobs se conocieron en 1971, cuando un amigo mutuo, Bill Fe
     </item>
     
     <item>
-      <title>Noticia2</title>
+      <title>Adiós al derecho de reparación: las pantallas de los iPhone 13 solo podrán repararse por locales de Apple si se quiere mantener el FaceID</title>
       <link>http://localhost/ejercicio_hugo_clase/posts/noticia2/</link>
       <pubDate>Mon, 27 Sep 2021 10:59:03 +0200</pubDate>
       
       <guid>http://localhost/ejercicio_hugo_clase/posts/noticia2/</guid>
-      <description>sdfgsdgdsafgadhdfsdartgrahdafhgadfhg</description>
+      <description>Apple será la única que podrá arreglar las pantallas rotas de los iPhone 13. Esto quiere decir que ya no permitirá que terceros ni los clientes arreglen las pantallas de estos dispositivos de la marca por su cuenta.
+Para impedir que esto ocurra, Apple ha deshabilitado el desbloqueo Face ID de aquellos móviles que no recurran a sus tiendas. Según han informado, el reconocimiento facial de los dispositivos de la compañía no se activa aunque se compre una pantalla de repuesto original.</description>
     </item>
     
     <item>
-      <title>Noticia1</title>
+      <title>Apple investiga los &#39;bugs&#39; no críticos de seguridad del iPhone recién publicados la semana pasada</title>
       <link>http://localhost/ejercicio_hugo_clase/posts/noticia1/</link>
       <pubDate>Mon, 27 Sep 2021 10:58:59 +0200</pubDate>
       
       <guid>http://localhost/ejercicio_hugo_clase/posts/noticia1/</guid>
-      <description>sdfgsdgdsafgadhdfsdartgrahdafhgadfhg</description>
+      <description>La semana pasada, el investigador de seguridad Denis Tokarev publicó en un post en su blog tres vulnerabilidades zero-day de iOS, aunque no son cr´íticas. Ahora, Apple se ha puesto en contacto con el investigador para pedir disculpas por el retraso en las respuestas. Y asegura que sigue trabajando en la forma en que puedan darles solución.
+Según ha podido saber Motherboard, Tokarev informó acerca de las cuatro vulnerabilidades a Apple entre el 10 de marzo y 29 de abril de este año.</description>
     </item>
     
     <item>
@@ -54,7 +56,7 @@ Steve Wozniak y Steve Jobs se conocieron en 1971, cuando un amigo mutuo, Bill Fe
     </item>
     
     <item>
-      <title>Busqueda</title>
+      <title>Search Results</title>
       <link>http://localhost/ejercicio_hugo_clase/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
