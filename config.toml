@@ -1,4 +1,4 @@
-baseURL = 'http://localhost/ejercicio_hugo_clase'
+baseURL = 'https://rares7.github.io/ejercicio_hugo_clase/'
 languageCode = 'es-es'
 title = 'Apple Blog'
 theme = 'ananke'
