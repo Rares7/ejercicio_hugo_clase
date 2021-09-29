@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Apple Blog</title>
-    <link>http://localhost/ejercicio_hugo_clase/posts/</link>
+    <link>https://rares7.github.io/ejercicio_hugo_clase/posts/</link>
     <description>Recent content in Posts on Apple Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 27 Sep 2021 10:59:06 +0200</lastBuildDate><atom:link href="http://localhost/ejercicio_hugo_clase/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Sep 2021 10:59:06 +0200</lastBuildDate><atom:link href="https://rares7.github.io/ejercicio_hugo_clase/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cuánta memoria RAM tienen cada uno de los iPhone 13 de Apple</title>
-      <link>http://localhost/ejercicio_hugo_clase/posts/noticia3/</link>
+      <link>https://rares7.github.io/ejercicio_hugo_clase/posts/noticia3/</link>
       <pubDate>Mon, 27 Sep 2021 10:59:06 +0200</pubDate>
       
-      <guid>http://localhost/ejercicio_hugo_clase/posts/noticia3/</guid>
+      <guid>https://rares7.github.io/ejercicio_hugo_clase/posts/noticia3/</guid>
       <description>El iPhone 13 es uno de los dispositivos que se puede convertir en el mejor del año. Estos llegaron no solo en su versión estándar, sino también en Mini, Pro y Pro Max. Si bien cada uno de ellos tienen un componente distinto, además de diversidad de funciones en su pantalla, cámara, entre otros, existe curiosidad no solo por la cantidad de batería que puedan llevar dentro, sino también en su memoria RAM.</description>
     </item>
     
     <item>
       <title>Adiós al derecho de reparación: las pantallas de los iPhone 13 solo podrán repararse por locales de Apple si se quiere mantener el FaceID</title>
-      <link>http://localhost/ejercicio_hugo_clase/posts/noticia2/</link>
+      <link>https://rares7.github.io/ejercicio_hugo_clase/posts/noticia2/</link>
       <pubDate>Mon, 27 Sep 2021 10:59:03 +0200</pubDate>
       
-      <guid>http://localhost/ejercicio_hugo_clase/posts/noticia2/</guid>
+      <guid>https://rares7.github.io/ejercicio_hugo_clase/posts/noticia2/</guid>
       <description>Apple será la única que podrá arreglar las pantallas rotas de los iPhone 13. Esto quiere decir que ya no permitirá que terceros ni los clientes arreglen las pantallas de estos dispositivos de la marca por su cuenta.
 Para impedir que esto ocurra, Apple ha deshabilitado el desbloqueo Face ID de aquellos móviles que no recurran a sus tiendas. Según han informado, el reconocimiento facial de los dispositivos de la compañía no se activa aunque se compre una pantalla de repuesto original.</description>
     </item>
     
     <item>
       <title>Apple investiga los &#39;bugs&#39; no críticos de seguridad del iPhone recién publicados la semana pasada</title>
-      <link>http://localhost/ejercicio_hugo_clase/posts/noticia1/</link>
+      <link>https://rares7.github.io/ejercicio_hugo_clase/posts/noticia1/</link>
       <pubDate>Mon, 27 Sep 2021 10:58:59 +0200</pubDate>
       
-      <guid>http://localhost/ejercicio_hugo_clase/posts/noticia1/</guid>
+      <guid>https://rares7.github.io/ejercicio_hugo_clase/posts/noticia1/</guid>
       <description>La semana pasada, el investigador de seguridad Denis Tokarev publicó en un post en su blog tres vulnerabilidades zero-day de iOS, aunque no son cr´íticas. Ahora, Apple se ha puesto en contacto con el investigador para pedir disculpas por el retraso en las respuestas. Y asegura que sigue trabajando en la forma en que puedan darles solución.
 Según ha podido saber Motherboard, Tokarev informó acerca de las cuatro vulnerabilidades a Apple entre el 10 de marzo y 29 de abril de este año.</description>
     </item>
