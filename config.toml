@@ -1,0 +1,36 @@
+baseURL = 'http://example.org/'
+languageCode = 'es-es'
+title = 'Apple Blog'
+theme = 'ananke'
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[menu]
+  [[menu.main]]
+	identifier = "Prueba"
+	name = "Contacto"
+	title = "Prueba"
+	url = "/prueba/"
+	weight = 4
+	[[menu.main]]
+	identifier = "search"
+	name = "Busqueda"
+	title = "Busqueda"
+	url = "/search/"
+	weight = 3
+	[[menu.main]]
+	identifier = "Noticias"
+	name = "Noticias"
+	title = "Noticias"
+	url = "/posts/"
+	weight = 2
+	 [[menu.main]]
+	identifier = "Historia"
+	name = "Historia"
+	title = "Historia"
+	url = "/historia/"
+	weight = 1
+
+[params]
+    featured_image="/img/apple.png"
+	twitter = "https://twitter.com/apple?lang=es"
