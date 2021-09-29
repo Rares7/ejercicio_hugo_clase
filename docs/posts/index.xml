@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Apple Blog</title>
+    <link>http://localhost/ejercicio_hugo_clase/posts/</link>
+    <description>Recent content in Posts on Apple Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 27 Sep 2021 10:59:06 +0200</lastBuildDate><atom:link href="http://localhost/ejercicio_hugo_clase/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cuánta memoria RAM tienen cada uno de los iPhone 13 de Apple</title>
+      <link>http://localhost/ejercicio_hugo_clase/posts/noticia3/</link>
+      <pubDate>Mon, 27 Sep 2021 10:59:06 +0200</pubDate>
+      
+      <guid>http://localhost/ejercicio_hugo_clase/posts/noticia3/</guid>
+      <description>El iPhone 13 es uno de los dispositivos que se puede convertir en el mejor del año. Estos llegaron no solo en su versión estándar, sino también en Mini, Pro y Pro Max. Si bien cada uno de ellos tienen un componente distinto, además de diversidad de funciones en su pantalla, cámara, entre otros, existe curiosidad no solo por la cantidad de batería que puedan llevar dentro, sino también en su memoria RAM.</description>
+    </item>
+    
+    <item>
+      <title>Noticia2</title>
+      <link>http://localhost/ejercicio_hugo_clase/posts/noticia2/</link>
+      <pubDate>Mon, 27 Sep 2021 10:59:03 +0200</pubDate>
+      
+      <guid>http://localhost/ejercicio_hugo_clase/posts/noticia2/</guid>
+      <description>sdfgsdgdsafgadhdfsdartgrahdafhgadfhg</description>
+    </item>
+    
+    <item>
+      <title>Noticia1</title>
+      <link>http://localhost/ejercicio_hugo_clase/posts/noticia1/</link>
+      <pubDate>Mon, 27 Sep 2021 10:58:59 +0200</pubDate>
+      
+      <guid>http://localhost/ejercicio_hugo_clase/posts/noticia1/</guid>
+      <description>sdfgsdgdsafgadhdfsdartgrahdafhgadfhg</description>
+    </item>
+    
+  </channel>
+</rss>
