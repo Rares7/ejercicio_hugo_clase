@@ -8,7 +8,7 @@ layout: prueba
 ## Datos de contacto de la empresa
 
 * Teléfono: 976321543
-* Dirección: Calle ...
-* Email ...
+* Dirección: Calle la manzana
+* Email apple@apple.com
 
 {{< form-contact action="https://formspree.io/f/mbjqwqow" >}}
