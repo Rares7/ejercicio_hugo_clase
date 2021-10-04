@@ -3,7 +3,7 @@ languageCode = 'es-es'
 title = 'Apple Blog'
 theme = 'ananke'
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "JSON"]
 
 [menu]
   [[menu.main]]
@@ -13,10 +13,10 @@ theme = 'ananke'
 	url = "/prueba/"
 	weight = 4
 	[[menu.main]]
-	identifier = "search"
+	identifier = "buscar"
 	name = "Busqueda"
 	title = "Busqueda"
-	url = "/search/"
+	url = "/buscar/"
 	weight = 3
 	[[menu.main]]
 	identifier = "Noticias"
