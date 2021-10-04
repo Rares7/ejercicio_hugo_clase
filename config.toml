@@ -7,10 +7,10 @@ theme = 'ananke'
 
 [menu]
   [[menu.main]]
-	identifier = "Prueba"
+	identifier = "contacto"
 	name = "Contacto"
-	title = "Prueba"
-	url = "/prueba/"
+	title = "Contacto"
+	url = "/contacto/"
 	weight = 4
 	[[menu.main]]
 	identifier = "buscar"
