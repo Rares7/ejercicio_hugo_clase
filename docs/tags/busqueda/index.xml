@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>busqueda on Apple Blog</title>
+    <link>https://rares7.github.io/ejercicio_hugo_clase/tags/busqueda/</link>
+    <description>Recent content in busqueda on Apple Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 04 Oct 2021 09:55:33 +0200</lastBuildDate><atom:link href="https://rares7.github.io/ejercicio_hugo_clase/tags/busqueda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resultado de búsqueda</title>
+      <link>https://rares7.github.io/ejercicio_hugo_clase/buscar/</link>
+      <pubDate>Mon, 04 Oct 2021 09:55:33 +0200</pubDate>
+      
+      <guid>https://rares7.github.io/ejercicio_hugo_clase/buscar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

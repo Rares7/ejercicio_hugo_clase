@@ -2,6 +2,7 @@
 title: "Historia de Apple"
 date: 2021-09-29T08:55:18+02:00
 draft: false
+tags: ["descripcion","apple","historia"]
 ---
 
 **1976-1980: Fundación e incorporación**

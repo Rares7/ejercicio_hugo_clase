@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>descripcion on Apple Blog</title>
+    <link>https://rares7.github.io/ejercicio_hugo_clase/tags/descripcion/</link>
+    <description>Recent content in descripcion on Apple Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 29 Sep 2021 08:55:18 +0200</lastBuildDate><atom:link href="https://rares7.github.io/ejercicio_hugo_clase/tags/descripcion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Historia de Apple</title>
+      <link>https://rares7.github.io/ejercicio_hugo_clase/historia/</link>
+      <pubDate>Wed, 29 Sep 2021 08:55:18 +0200</pubDate>
+      
+      <guid>https://rares7.github.io/ejercicio_hugo_clase/historia/</guid>
+      <description>1976-1980: Fundación e incorporación
+Steve Wozniak y Steve Jobs se conocieron en 1971, cuando un amigo mutuo, Bill Fernández, presentó a Wozniak, quien tenía 21 años de edad, a Jobs, entonces de 15 años. Steve Wozniak, a quien le gustaba que le llamaran Woz, siempre había sentido una gran atracción por la electrónica en general, diseñando desde que era pequeño circuitos en papel para después tratar de optimizarlos al máximo. Dada su afición por la electrónica, Woz &amp;ldquo;apadrinaba&amp;rdquo; a otros chicos a los que les gustase el tema, como Bill Fernández, o el mismo Steve Jobs.</description>
+    </item>
+    
+  </channel>
+</rss>
